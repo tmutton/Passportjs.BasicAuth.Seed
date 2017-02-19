@@ -1,0 +1,19 @@
+{
+  "name": "Passportjs.BasicAuth.Seed",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Thomas Mutton",
+  "engines": {
+    "node": ">=4.3.2"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "passport": "^0.3.2",
+    "passport-http": "^0.3.0"
+  }
+}
